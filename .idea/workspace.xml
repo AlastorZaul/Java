@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7adf831-9119-4320-9372-e5035d4f037e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Distinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heritage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Melange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Peek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrimToSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
-    </list>
+    <list default="true" id="b7adf831-9119-4320-9372-e5035d4f037e" name="Changes" comment="first Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1650524934993</updated>
     </task>
+    <task id="LOCAL-00001" summary="first Commit">
+      <created>1650534381977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650534381977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +109,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
