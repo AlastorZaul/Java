@@ -77,8 +77,8 @@ class Person {
     protected House house;
 
     public Person() {
-        name = "Thomas";
-        house = new House(150);
+        this.name = "Thomas";
+        this.house = new House(150);
     }
 
     public Person(String name, House house) {
@@ -103,7 +103,7 @@ class Person {
     }
 
     public void display() {
-        System.out.println("Je m'appelle " + name + ".");
+        System.out.println("Je m'appel " + name + ".");
         house.display();
         house.door.display();
     }
